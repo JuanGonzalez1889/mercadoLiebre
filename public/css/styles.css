@@ -1,0 +1,47 @@
+html,body{
+    margin: 0;
+}
+body {
+    font-family: "Roboto";
+    font-size: 12px;
+}
+
+.ml-yelow-text{
+    color: #EAC926;
+
+}
+.ml-yelow-background{
+background-color: #EAC926;;
+}
+.text-body{
+    font-size: 12px;
+}
+
+.text-title{
+    font-size: 24px;
+    text-align: center;
+}
+
+.text-price{
+    font-size: 18px;
+}
+
+.burger-menu{
+    text-align: center;
+    font-size: 26px;
+}
+.card-credit{
+    text-align: center;
+    font-size: 26px;
+    color: blue;
+}
+.gift{
+    text-align: center;
+    font-size: 26px;
+    color: blue;
+}
+.security{
+    text-align: center;
+    font-size: 26px;
+    color: blue;
+}
