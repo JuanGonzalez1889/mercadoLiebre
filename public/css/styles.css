@@ -38,6 +38,7 @@ body {
     padding: 8px;
 }
 
+
 .align-center {
     align-items: center;
 }
@@ -51,10 +52,12 @@ body {
 #ml-main-nav ul {
     list-style-type: none;
     padding-left: 0;
+    
 }
 #ml-main-nav a {
     text-decoration: none;
     color: black;
+    
 }
 
 .ml-yelow-background{
@@ -184,6 +187,16 @@ padding: 24px;
 
 .main-register{
     padding: 0 5%;
+    width: 100%;
+}
+.main-login{
+    padding: 82px 8%;
+    background-color: aliceblue;
+}
+.button-login{
+    padding:10px;
+    border-radius: 4%;
+
 }
 .body-general{
     background-color:lightgray;
@@ -210,9 +223,6 @@ padding: 24px;
         display: none
     }
     
-    .show-sm {
-        display: initial;
-    }
     .w-50-sm {
         width: 50%;
     }
