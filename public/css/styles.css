@@ -49,6 +49,9 @@ body {
 .justify-space-between {
     justify-content: space-between;
 }
+#ml-main-nav{
+    display:none
+}
 #ml-main-nav ul {
     list-style-type: none;
     padding-left: 0;
@@ -239,6 +242,21 @@ padding: 24px;
     .product-content .text-desc {
     display: initial;
 }
+#ml-main-nav ul {
+    list-style-type: none;
+    padding-left: 0;
+    
+}
+#ml-main-nav{
+    display:flex;
+    font-size: 15px;
+
+}
+#ml-main-nav a {
+    text-decoration: none;
+    color: black;
+    
+}
 
 }
 .product:hover .text.description{
@@ -257,6 +275,22 @@ padding: 24px;
     .product {
     width: 23%;
     margin: 1%;
+}
+
+#ml-main-nav ul {
+    list-style-type: none;
+    padding-left: 0;
+    
+}
+#ml-main-nav{
+    display:flex;
+    font-size: 15px;
+
+}
+#ml-main-nav a {
+    text-decoration: none;
+    color: black;
+    
 }
 .product-content .text-description{
     opacity: 0;
